@@ -1,3 +1,5 @@
 ## Practice using Playwright with Javascript
 
-Reference: https://testautomationu.applitools.com/js-playwright-tutorial/
+https://testautomationu.applitools.com/js-playwright-tutorial/
+
+https://github.com/ixmeza/playwright_tau/tree/main
